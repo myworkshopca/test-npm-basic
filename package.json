@@ -1,0 +1,14 @@
+{
+  "name": "test-npm-basic",
+  "version": "1.0.0",
+  "description": "testint module fot seanchen-npm-basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "seanchen-npm-basic": "^1.0.0"
+  }
+}
