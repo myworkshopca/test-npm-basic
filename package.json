@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "seanchen-npm-basic": "^1.0.1"
+    "seanchen-npm-basic": "^1.0.3"
   }
 }
